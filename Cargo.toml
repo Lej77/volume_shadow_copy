@@ -2,6 +2,7 @@
 name = "volume_shadow_copy"
 # When updating:
 # - Generate README.md using `cargo readme --no-license > README.md`
+#   - Might need to install the tool first: `cargo install cargo-readme`
 version = "0.1.0"
 authors = ["Lej77 <31554212+Lej77@users.noreply.github.com>"]
 license = "MIT OR Apache-2.0"
